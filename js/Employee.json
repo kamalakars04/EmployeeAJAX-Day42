@@ -21,29 +21,19 @@
       "id": 5
     },
     {
-      "name": "Kavya",
-      "salary": "3000",
+      "name": "Pavithra",
+      "salary": "5000",
       "id": 6
     },
     {
-      "name": "Kavya",
-      "salary": "3000",
+      "name": "Pavithra",
+      "salary": "5000",
       "id": 7
     },
     {
-      "name": "Kavya",
-      "salary": "3000",
+      "name": "Kamalakar",
+      "salary": "5000",
       "id": 8
-    },
-    {
-      "name": "Kavya",
-      "salary": "3000",
-      "id": 9
-    },
-    {
-      "name": "Kavya",
-      "salary": "3000",
-      "id": 10
     }
   ]
 }
